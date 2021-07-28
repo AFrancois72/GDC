@@ -16,7 +16,7 @@ SQL is used to store the 'raw' data from CSV and then for complex queries. Pytho
         - 1 script for each table to create the table, do some sanity check and some exploratory analysis scripts 
     -  In the Data Analysis folder: 1 script consolidating all queries for analysis (including some check queries). 
 
-### Data Analysis
+# Data Analysis
 
 As suggested we carried out a fast analysis of the data. We hence chose to investigate classic Google Analytics categories: Audience, Acquisition and conversion. 
 
